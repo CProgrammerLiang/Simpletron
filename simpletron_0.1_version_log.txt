@@ -1,0 +1,5 @@
+#the 0.1 version log
+The 0.1 version is very bad that if you input three times of invalid choice,it will have trooped "invalid choice."It will be patched on 0.2
+version patch.
+Problems:
+While troop mistake
